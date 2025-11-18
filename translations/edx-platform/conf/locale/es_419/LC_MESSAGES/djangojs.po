@@ -10326,7 +10326,7 @@ msgstr "Mostrar menos"
 
 #: lms/templates/discovery/course_card.underscore:6
 msgid "LEARN MORE"
-msgstr "APRENDER MAS"
+msgstr "APRENDE MÁS"
 
 #: lms/templates/discovery/course_card.underscore:17
 #, python-format
