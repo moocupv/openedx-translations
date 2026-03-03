@@ -51,7 +51,7 @@
   "learn.coursewareSearch.searchBarPlaceholderText": "Meklēt",
   "learn.coursewareSearch.loading": "Meklēšana...",
   "learn.coursewareSearch.searchResultsNone": "Nekas nav atrasts.",
-  "learn.coursewareSearch.searchResultsLabel": "Rezultāti vaicājumam &quot; {keyword} &quot;:",
+  "learn.coursewareSearch.searchResultsLabel": "Rezultāti vaicājumam \" {keyword} \":",
   "learn.coursewareSearch.searchResultsError": "Meklēšanas procesā tika pieļauta kļūda. Lūdzu, mēģiniet vēlreiz pēc dažām minūtēm. Ja problēma saglabājas, lūdzu, sazinieties ar atbalsta komandu.",
   "learn.coursewareSearch.filter:all": "Viss saturs",
   "learn.coursewareSearch.filter:text": "Teksts",

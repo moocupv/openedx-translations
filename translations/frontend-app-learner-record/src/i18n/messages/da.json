@@ -17,7 +17,7 @@
   "credentials.modal.instruction.title": "Følg instruktionerne nedenfor for at få en verificerbar legitimation:",
   "credentials.modal.instruction.step1": "Download og installer wallet-appen på din smartphone.",
   "credentials.modal.instruction.step2": "Tilmeld dig appen for at identificere dig selv.",
-  "credentials.modal.instruction.step3": "Åbn tegnebogens applikation og vælg muligheden &quot;Scan QR-kode&quot;. Scan derefter billedet af QR-koden.",
+  "credentials.modal.instruction.step3": "Åbn tegnebogens applikation og vælg muligheden \"Scan QR-kode\". Scan derefter billedet af QR-koden.",
   "credentials.modal.instruction.step4": "Når du har gjort det - luk modalt vindue.",
   "credentials.modal.deeplink": "Download legitimationsoplysninger",
   "credentials.modal.loading": "Indlæser...",

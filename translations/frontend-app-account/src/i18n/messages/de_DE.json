@@ -158,7 +158,7 @@
   "id.verification.camera.access.title": "Kameraberechtigungen",
   "id.verification.camera.access.title.success": "Kamerazugriff aktiviert",
   "id.verification.camera.access.title.failed": "Kamerazugriff fehlgeschlagen",
-  "id.verification.camera.access.click.allow": "Bitte stellen Sie sicher, dass Sie auf &quot;Zulassen&quot; klicken",
+  "id.verification.camera.access.click.allow": "Bitte stellen Sie sicher, dass Sie auf \"Zulassen\" klicken",
   "id.verification.camera.access.enable": "Kamera aktivieren",
   "id.verification.camera.access.problems": "Probleme haben?",
   "id.verification.camera.access.skip": "Überspringen und laden Sie stattdessen Bilddateien hoch",

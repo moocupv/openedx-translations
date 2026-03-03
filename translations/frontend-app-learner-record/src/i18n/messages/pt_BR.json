@@ -17,7 +17,7 @@
   "credentials.modal.instruction.title": "Siga as instruções abaixo para obter uma credencial verificável:",
   "credentials.modal.instruction.step1": "Baixe e instale o aplicativo de carteira em seu smartphone.",
   "credentials.modal.instruction.step2": "Cadastre-se no app para se identificar.",
-  "credentials.modal.instruction.step3": "Abra o aplicativo de carteira e selecione a opção &quot;Escanear código QR&quot;. Em seguida, digitalize a imagem do código QR.",
+  "credentials.modal.instruction.step3": "Abra o aplicativo de carteira e selecione a opção \"Escanear código QR\". Em seguida, digitalize a imagem do código QR.",
   "credentials.modal.instruction.step4": "Depois de ter feito com sucesso - feche a janela modal.",
   "credentials.modal.deeplink": "Baixar credencial",
   "credentials.modal.loading": "Carregando...",

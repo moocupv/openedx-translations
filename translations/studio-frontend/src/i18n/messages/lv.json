@@ -146,7 +146,7 @@
   "editImageModalFormErrorMissingFields": "Noteikti aizpildiet visus laukus.",
   "editImageModalFormValidImageDescription": "Pievienojiet attēla aprakstu vai norādiet, ka attēls ir tikai dekoratīvs.",
   "editImageModalFormValidImageDimensions": "Attēla izmēriem ir jābūt pozitīviem skaitļiem.",
-  "editImageModalImageDescriptionDescription": "Alternatīvs teksts lietotājiem, kuri nevar apskatīt attēlu, piemēram, &quot;Debesis ar mākoņiem&quot;.",
+  "editImageModalImageDescriptionDescription": "Alternatīvs teksts lietotājiem, kuri nevar apskatīt attēlu, piemēram, \"Debesis ar mākoņiem\".",
   "editImageModalImageDescriptionLabel": "Attēla apraksts (alternatīvais teksts)",
   "editImageModalImageDescriptionLegend": "Attēla apraksts",
   "editImageModalDimensionsLegend": "Attēla izmēri",

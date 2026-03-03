@@ -146,7 +146,7 @@
   "editImageModalFormErrorMissingFields": "Sørg for at udfylde alle felter.",
   "editImageModalFormValidImageDescription": "Tilføj en billedbeskrivelse, eller angiv, at billedet kun er dekorativt.",
   "editImageModalFormValidImageDimensions": "Billeddimensioner skal være positive tal.",
-  "editImageModalImageDescriptionDescription": "Alternativ tekst til brugere, der ikke kan se billedet, såsom &quot;Himmelen med skyer&quot;.",
+  "editImageModalImageDescriptionDescription": "Alternativ tekst til brugere, der ikke kan se billedet, såsom \"Himmelen med skyer\".",
   "editImageModalImageDescriptionLabel": "Billedbeskrivelse (alt tekst)",
   "editImageModalImageDescriptionLegend": "Billedbeskrivelse",
   "editImageModalDimensionsLegend": "Billeddimensioner",

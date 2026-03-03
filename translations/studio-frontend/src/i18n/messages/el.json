@@ -146,7 +146,7 @@
   "editImageModalFormErrorMissingFields": "Φροντίστε να συμπληρώσετε όλα τα πεδία.",
   "editImageModalFormValidImageDescription": "Προσθέστε μια περιγραφή εικόνας ή καθορίστε ότι η εικόνα είναι μόνο διακοσμητική.",
   "editImageModalFormValidImageDimensions": "Οι διαστάσεις της εικόνας πρέπει να είναι θετικοί αριθμοί.",
-  "editImageModalImageDescriptionDescription": "Εναλλακτικό κείμενο για χρήστες που δεν μπορούν να δουν την εικόνα, όπως &quot;Ο ουρανός με τα σύννεφα&quot;.",
+  "editImageModalImageDescriptionDescription": "Εναλλακτικό κείμενο για χρήστες που δεν μπορούν να δουν την εικόνα, όπως \"Ο ουρανός με τα σύννεφα\".",
   "editImageModalImageDescriptionLabel": "Περιγραφή εικόνας (Εναλλακτικό κείμενο)",
   "editImageModalImageDescriptionLegend": "Περιγραφή εικόνας",
   "editImageModalDimensionsLegend": "Διαστάσεις εικόνας",

@@ -161,7 +161,7 @@
   "discussions.posts.actionBar.searchAllPosts": "Αναζήτηση",
   "discussions.posts.actionBar.search": "{page, select, topics {Αναζήτηση} posts {Αναζήτηση} learners {Αναζήτηση} myPosts {Αναζήτηση} other {{page}} }",
   "discussions.actionBar.searchInfo": "Εμφάνιση {count} αποτελεσμάτων για \"{text}\"",
-  "discussions.actionBar.searchRewriteInfo": "Δεν βρέθηκαν αποτελέσματα για &quot; {searchString} &quot;. Εμφάνιση αποτελεσμάτων {count} για &quot; {textSearchRewrite} &quot;.",
+  "discussions.actionBar.searchRewriteInfo": "Δεν βρέθηκαν αποτελέσματα για \" {searchString} \". Εμφάνιση αποτελεσμάτων {count} για \" {textSearchRewrite} \".",
   "discussions.actionBar.searchInfoSearching": "Γίνεται αναζήτηση...",
   "discussions.actionBar.clearSearch": "Καθαρά αποτελέσματα",
   "discussion.posts.actionBar.add": "Νέα ανάρτηση",

@@ -50,7 +50,7 @@
   "learn.coursewareSerch.searchBarPlaceholderText": "البحث",
   "learn.coursewareSerch.loading": "البحث جارٍ...",
   "learn.coursewareSerch.searchResultsNone": "لم يتم العثور على نتائج.",
-  "learn.coursewareSerch.searchResultsLabel": "نتائج ل &quot; {keyword} &quot;:",
+  "learn.coursewareSerch.searchResultsLabel": "نتائج ل \" {keyword} \":",
   "learn.coursewareSerch.searchResultsError": "حدث خطأ في عملية البحث. يرجى المحاولة مرة أخرى في بضع دقائق. إذا استمرت المشكلة، يرجى الاتصال بفريق الدعم.",
   "learn.coursewareSerch.filter:all": "كل المحتوى",
   "learn.coursewareSerch.filter:text": "النص",

@@ -17,7 +17,7 @@
   "credentials.modal.instruction.title": "ทำตามคำแนะนำด้านล่างเพื่อรับข้อมูลประจำตัวที่ตรวจสอบได้:",
   "credentials.modal.instruction.step1": "ดาวน์โหลดและติดตั้งแอปกระเป๋าสตางค์บนสมาร์ทโฟนของคุณ",
   "credentials.modal.instruction.step2": "สมัครใช้งานแอปเพื่อระบุตัวตนของคุณ",
-  "credentials.modal.instruction.step3": "เปิดแอปพลิเคชันกระเป๋าเงินแล้วเลือกตัวเลือก &quot;สแกนรหัส QR&quot; จากนั้นสแกนภาพรหัส QR",
+  "credentials.modal.instruction.step3": "เปิดแอปพลิเคชันกระเป๋าเงินแล้วเลือกตัวเลือก \"สแกนรหัส QR\" จากนั้นสแกนภาพรหัส QR",
   "credentials.modal.instruction.step4": "เมื่อคุณทำสำเร็จแล้ว - ปิดหน้าต่างโมดอล",
   "credentials.modal.deeplink": "ดาวน์โหลดข้อมูลรับรอง",
   "credentials.modal.loading": "กำลังโหลด...",

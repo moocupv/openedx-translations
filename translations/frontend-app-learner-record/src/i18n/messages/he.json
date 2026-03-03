@@ -17,7 +17,7 @@
   "credentials.modal.instruction.title": "בצע את ההוראות הבאות כדי לקבל אישור שניתן לאמת:",
   "credentials.modal.instruction.step1": "הורד והתקן את אפליקציית הארנק בסמארטפון שלך.",
   "credentials.modal.instruction.step2": "הירשם לאפליקציה כדי להזדהות.",
-  "credentials.modal.instruction.step3": "פתחו את אפליקציית הארנק ובחרו באפשרות &quot;סרוק קוד QR&quot;. לאחר מכן סרוק את התמונה של קוד QR.",
+  "credentials.modal.instruction.step3": "פתחו את אפליקציית הארנק ובחרו באפשרות \"סרוק קוד QR\". לאחר מכן סרוק את התמונה של קוד QR.",
   "credentials.modal.instruction.step4": "לאחר שעשיתם בהצלחה - סגור חלון מודאלי.",
   "credentials.modal.deeplink": "הורד אישורים",
   "credentials.modal.loading": "טוען...",

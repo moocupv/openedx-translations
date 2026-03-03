@@ -17,7 +17,7 @@
   "credentials.modal.instruction.title": "اتبع الإرشادات أدناه للحصول على بيانات اعتماد يمكن التحقق منها:",
   "credentials.modal.instruction.step1": "قم بتنزيل وتثبيت تطبيق المحفظة على هاتفك الذكي.",
   "credentials.modal.instruction.step2": "اشترك في التطبيق لتعريف نفسك.",
-  "credentials.modal.instruction.step3": "افتح تطبيق المحفظة وحدد الخيار &quot;مسح رمز الاستجابة السريعة&quot;. ثم امسح صورة رمز الاستجابة السريعة ضوئيًا.",
+  "credentials.modal.instruction.step3": "افتح تطبيق المحفظة وحدد الخيار \"مسح رمز الاستجابة السريعة\". ثم امسح صورة رمز الاستجابة السريعة ضوئيًا.",
   "credentials.modal.instruction.step4": "بمجرد الانتهاء بنجاح - أغلق النافذة المشروطة.",
   "credentials.modal.deeplink": "تنزيل بيانات الاعتماد",
   "credentials.modal.loading": "التحميل جارٍ...",

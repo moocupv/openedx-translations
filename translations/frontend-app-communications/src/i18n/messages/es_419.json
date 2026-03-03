@@ -45,7 +45,7 @@
   "bulk.email.content.history.table.modal.timeSent": "Hora de envío:",
   "bulk.email.content.history.table.modal.sentTo": "Enviado a:",
   "bulk.email.content.history.table.modal.messageBody": "Mensaje:",
-  "bulk.email.content.history.table.viewMessageInstructions": "Para leer un mensaje de correo electrónico enviado, haga clic en el botón &quot;Ver mensaje&quot; dentro de la tabla.",
+  "bulk.email.content.history.table.viewMessageInstructions": "Para leer un mensaje de correo electrónico enviado, haga clic en el botón \"Ver mensaje\" dentro de la tabla.",
   "bulk.email.content.history.table.column.header.subject": "Asunto",
   "bulk.email.content.history.table.column.header.author": "Enviado por",
   "bulk.email.content.history.table.column.header.recipients": "Enviado a",

@@ -50,7 +50,7 @@
   "learn.coursewareSerch.searchBarPlaceholderText": "Søg",
   "learn.coursewareSerch.loading": "Søger...",
   "learn.coursewareSerch.searchResultsNone": "Ingen resultater fundet.",
-  "learn.coursewareSerch.searchResultsLabel": "Resultater for &quot; {keyword} &quot;:",
+  "learn.coursewareSerch.searchResultsLabel": "Resultater for \" {keyword} \":",
   "learn.coursewareSerch.searchResultsError": "Der opstod en fejl i søgeprocessen. Prøv venligst igen om et par minutter. Hvis problemet fortsætter, bedes du kontakte supportteamet.",
   "learn.coursewareSerch.filter:all": "Alt indhold",
   "learn.coursewareSerch.filter:text": "Tekst",

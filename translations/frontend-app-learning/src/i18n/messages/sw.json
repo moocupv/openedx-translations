@@ -50,7 +50,7 @@
   "learn.coursewareSerch.searchBarPlaceholderText": "Tafuta",
   "learn.coursewareSerch.loading": "Inatafuta...",
   "learn.coursewareSerch.searchResultsNone": "Hakuna matokeo yaliyopatikana.",
-  "learn.coursewareSerch.searchResultsLabel": "Matokeo ya &quot; {keyword} &quot;:",
+  "learn.coursewareSerch.searchResultsLabel": "Matokeo ya \" {keyword} \":",
   "learn.coursewareSerch.searchResultsError": "Kulikuwa na hitilafu kwenye mchakato wa utafutaji. Tafadhali jaribu tena baada ya dakika chache. Tatizo likiendelea, tafadhali wasiliana na timu ya usaidizi.",
   "learn.coursewareSerch.filter:all": "Maudhui yote",
   "learn.coursewareSerch.filter:text": "Maandishi",

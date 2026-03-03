@@ -72,7 +72,7 @@
     "string": "ขยายทั้งหมด"
   },
   "pgn.DataTable.FilterStatus.clearFiltersText": {
-    "developer_comment": "ข้อความที่ปรากฏบนปุ่ม &quot;ล้างตัวกรอง&quot;",
+    "developer_comment": "ข้อความที่ปรากฏบนปุ่ม \"ล้างตัวกรอง\"",
     "string": "ล้างตัวกรอง"
   },
   "pgn.DataTable.RowStatus.statusText": {

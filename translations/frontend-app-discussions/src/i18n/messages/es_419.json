@@ -161,7 +161,7 @@
   "discussions.app.title": "Debates",
   "discussions.posts.actionBar.searchAllPosts": "Buscar en todas las publicaciones",
   "discussions.posts.actionBar.search": "{página, Seleccionar , temas {Buscar temas} publicaciones {Buscar todas las publicaciones} alumnos {Buscar alumnos} myPosts {Buscar todas las publicaciones} otros {{page}} }",
-  "discussions.actionBar.searchInfo": "Mostrando resultados de {count} para &quot;{text}&quot;",
+  "discussions.actionBar.searchInfo": "Mostrando resultados de {count} para \"{text}\"",
   "discussions.actionBar.searchRewriteInfo": "No results found for \"{searchString}\". Showing {count} results for \"{textSearchRewrite}\".",
   "discussions.actionBar.searchInfoSearching": "Buscando..",
   "discussions.actionBar.clearSearch": "Borrar resultados",

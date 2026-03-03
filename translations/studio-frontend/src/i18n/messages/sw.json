@@ -146,7 +146,7 @@
   "editImageModalFormErrorMissingFields": "Hakikisha umejaza sehemu zote.",
   "editImageModalFormValidImageDescription": "Ongeza maelezo ya picha au bainisha kuwa picha ni ya mapambo pekee.",
   "editImageModalFormValidImageDimensions": "Vipimo vya picha lazima ziwe nambari chanya.",
-  "editImageModalImageDescriptionDescription": "Maandishi mbadala kwa watumiaji ambao hawawezi kuona picha, kama vile &quot;Anga yenye mawingu&quot;.",
+  "editImageModalImageDescriptionDescription": "Maandishi mbadala kwa watumiaji ambao hawawezi kuona picha, kama vile \"Anga yenye mawingu\".",
   "editImageModalImageDescriptionLabel": "Maelezo ya Picha (Alt Text)",
   "editImageModalImageDescriptionLegend": "Maelezo ya Picha",
   "editImageModalDimensionsLegend": "Vipimo vya Picha",

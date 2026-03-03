@@ -50,7 +50,7 @@
   "learn.coursewareSerch.searchBarPlaceholderText": "Ara",
   "learn.coursewareSerch.loading": "Aranıyor...",
   "learn.coursewareSerch.searchResultsNone": "Sonuç bulunamadı.",
-  "learn.coursewareSerch.searchResultsLabel": "&quot; {keyword} &quot; için sonuçlar:",
+  "learn.coursewareSerch.searchResultsLabel": "\" {keyword} \" için sonuçlar:",
   "learn.coursewareSerch.searchResultsError": "Arama sürecinde bir hata oluştu. Lütfen birkaç dakika içinde tekrar deneyin. Sorun devam ederse lütfen destek ekibiyle iletişime geçin.",
   "learn.coursewareSerch.filter:all": "Tüm içerik",
   "learn.coursewareSerch.filter:text": "Metin",

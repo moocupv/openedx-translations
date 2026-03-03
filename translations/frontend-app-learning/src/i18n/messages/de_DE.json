@@ -331,7 +331,7 @@
   "courseCelebration.recommendations.loading_recommendations": "Lade Empfehlungen",
   "courseCelebration.recommendations.card.schools.label": "Schulen und Partner",
   "courseCelebration.dashboardInfo": "Sie können auf diesen Kurs und seine Materialien auf Ihrem {dashboardLink} zugreifen.",
-  "courseExit.programCompletion.dashboardMessage": "Um Ihren Zertifikatsstatus anzuzeigen, sehen Sie im Abschnitt &quot;Programme&quot; Ihres {programLink} nach.",
+  "courseExit.programCompletion.dashboardMessage": "Um Ihren Zertifikatsstatus anzuzeigen, sehen Sie im Abschnitt \"Programme\" Ihres {programLink} nach.",
   "courseExit.upgradeFootnote": "Der Zugriff auf diesen Kurs und seine Materialien ist auf Ihrem Dashboard bis {expirationDate} verfügbar. Um diese Zugriffsfrist zu verlängern, {upgradeLink}.",
   "courseExit.programs.applyForCredit": "Kurs-Guthaben beantragen",
   "courseCelebration.certificateHeader.downloadable": "Ihr Zertifikat liegt vor!",

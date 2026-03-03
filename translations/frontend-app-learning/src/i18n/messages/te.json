@@ -50,7 +50,7 @@
   "learn.coursewareSerch.searchBarPlaceholderText": "వెతకండి",
   "learn.coursewareSerch.loading": "శోధిస్తోంది...",
   "learn.coursewareSerch.searchResultsNone": "ఎటువంటి ఫలితాలు లభించలేదు.",
-  "learn.coursewareSerch.searchResultsLabel": "&quot; {keyword} &quot; ఫలితాలు:",
+  "learn.coursewareSerch.searchResultsLabel": "\" {keyword} \" ఫలితాలు:",
   "learn.coursewareSerch.searchResultsError": "శోధన ప్రక్రియలో లోపం ఏర్పడింది. దయచేసి కొన్ని నిమిషాల తర్వాత మళ్లీ ప్రయత్నించండి. సమస్య కొనసాగితే, దయచేసి మద్దతు బృందాన్ని సంప్రదించండి.",
   "learn.coursewareSerch.filter:all": "మొత్తం కంటెంట్",
   "learn.coursewareSerch.filter:text": "వచనం",

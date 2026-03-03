@@ -1,7 +1,7 @@
 {
   "catalogPage.askXpert.title": "एक्सपर्ट",
   "catalogPage.askXpert.description": "अपनी खोज को सीमित करने के लिए AI का उपयोग करें।",
-  "catalogPage.askXpert.loadingMessage": "विशेषज्ञ सोच रहा है! जब तक हम <b>&quot; {query} &quot; के लिए एक कैटलॉग तैयार करते हैं, तब तक हमारे साथ प्रतीक्षा करें...</b>",
+  "catalogPage.askXpert.loadingMessage": "विशेषज्ञ सोच रहा है! जब तक हम <b>\" {query} \" के लिए एक कैटलॉग तैयार करते हैं, तब तक हमारे साथ प्रतीक्षा करें...</b>",
   "catalogPage.askXpert.cancel": "रद्द करें",
   "catalogPage.askXpert.poweredBy": "OpenAI द्वारा संचालित",
   "catalogInfoModal.relatedSkillsHeading": "सम्बंधित योग्यता",

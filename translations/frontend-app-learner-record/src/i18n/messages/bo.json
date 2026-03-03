@@ -17,7 +17,7 @@
   "credentials.modal.instruction.title": "ཡིད་རྟོན་རུང་བའི་ལག་ཁྱེར་ཞིག་ཐོབ་ཆེད་གཤམ་གསལ་གྱི་ལམ་སྟོན་ལྟར་གནང་རོགས།",
   "credentials.modal.instruction.step1": "ཁྱེད་རང་གི་རིག་ནུས་ཁ་པར་ནང་དུ་དངུལ་ཁུག་མཉེན་ཆས་ཕབ་ལེན་བྱས་ནས་སྒྲིག་འཇུག་བྱོས།",
   "credentials.modal.instruction.step2": "མཉེན་ཆས་འདིའི་ནང་ཁྱེད་རང་ངོས་འཛིན་ཐུབ་ཕྱིར་ཞུགས་ཐོ་གསར་འགོད་བྱོས།",
-  "credentials.modal.instruction.step3": "དངུལ་ཁུག་མཉེན་ཆས་འདི་ཁ་ཕྱེ་ནས་གདམ་ཁ་&quot;Scan QR code&quot; འདེམས། དེ་ནས་QR ཨང་བརྡའི་པར་རིས་དེ་བཤེར་དགོས།",
+  "credentials.modal.instruction.step3": "དངུལ་ཁུག་མཉེན་ཆས་འདི་ཁ་ཕྱེ་ནས་གདམ་ཁ་\"Scan QR code\" འདེམས། དེ་ནས་QR ཨང་བརྡའི་པར་རིས་དེ་བཤེར་དགོས།",
   "credentials.modal.instruction.step4": "ཁྱོད་ཀྱིས་ཡོངས་སུ་རྫོགས་པ་ལེགས་པར་བསྒྲུབས་རྗེས། - དཔེ་མཚོན་སྒེའུ་ཁུང་སྒོ་རྒྱོབས།",
   "credentials.modal.deeplink": "ལག་ཁྱེར་ཕབ་ལེན་བྱོས།",
   "credentials.modal.loading": "ལེན་བཞིན་པ་་་",

@@ -72,7 +72,7 @@
     "string": "Εμφάνιση όλων"
   },
   "pgn.DataTable.FilterStatus.clearFiltersText": {
-    "developer_comment": "Ένα κείμενο που εμφανίζεται στο κουμπί &quot;Διαγραφή φίλτρων&quot;.",
+    "developer_comment": "Ένα κείμενο που εμφανίζεται στο κουμπί \"Διαγραφή φίλτρων\".",
     "string": "Καθαρισμός φίλτρων"
   },
   "pgn.DataTable.RowStatus.statusText": {

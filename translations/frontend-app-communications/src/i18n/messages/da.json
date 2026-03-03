@@ -45,7 +45,7 @@
   "bulk.email.content.history.table.modal.timeSent": "Sendt tid:",
   "bulk.email.content.history.table.modal.sentTo": "Sendt til:",
   "bulk.email.content.history.table.modal.messageBody": "Besked:",
-  "bulk.email.content.history.table.viewMessageInstructions": "For at læse en sendt e-mail-besked skal du klikke på knappen &quot;Se besked&quot; i tabellen.",
+  "bulk.email.content.history.table.viewMessageInstructions": "For at læse en sendt e-mail-besked skal du klikke på knappen \"Se besked\" i tabellen.",
   "bulk.email.content.history.table.column.header.subject": "Emne",
   "bulk.email.content.history.table.column.header.author": "Fra",
   "bulk.email.content.history.table.column.header.recipients": "Sendt til",

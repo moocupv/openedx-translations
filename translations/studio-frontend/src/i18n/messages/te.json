@@ -146,7 +146,7 @@
   "editImageModalFormErrorMissingFields": "అన్ని ఫీల్డ్‌లను పూరించినట్లు నిర్ధారించుకోండి.",
   "editImageModalFormValidImageDescription": "చిత్ర వివరణను జోడించండి లేదా చిత్రం అలంకరణ మాత్రమే అని పేర్కొనండి.",
   "editImageModalFormValidImageDimensions": "చిత్ర కొలతలు తప్పనిసరిగా ధనాత్మక సంఖ్యలుగా ఉండాలి.",
-  "editImageModalImageDescriptionDescription": "చిత్రాన్ని వీక్షించలేని వినియోగదారుల కోసం ప్రత్యామ్నాయ వచనం, ఉదాహరణకు &quot;మేఘాలతో కూడిన ఆకాశం&quot;.",
+  "editImageModalImageDescriptionDescription": "చిత్రాన్ని వీక్షించలేని వినియోగదారుల కోసం ప్రత్యామ్నాయ వచనం, ఉదాహరణకు \"మేఘాలతో కూడిన ఆకాశం\".",
   "editImageModalImageDescriptionLabel": "చిత్ర వివరణ (ఆల్ట్ టెక్స్ట్)",
   "editImageModalImageDescriptionLegend": "చిత్ర వివరణ",
   "editImageModalDimensionsLegend": "చిత్రం కొలతలు",

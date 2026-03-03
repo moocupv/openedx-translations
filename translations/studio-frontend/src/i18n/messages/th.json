@@ -146,7 +146,7 @@
   "editImageModalFormErrorMissingFields": "อย่าลืมกรอกข้อมูลให้ครบทุกช่อง",
   "editImageModalFormValidImageDescription": "เพิ่มคำอธิบายรูปภาพหรือระบุว่ารูปภาพมีไว้เพื่อการตกแต่งเท่านั้น",
   "editImageModalFormValidImageDimensions": "ขนาดรูปภาพต้องเป็นตัวเลขบวก",
-  "editImageModalImageDescriptionDescription": "ข้อความแสดงแทนสำหรับผู้ใช้ที่ไม่สามารถดูภาพได้ เช่น &quot;ท้องฟ้ามีเมฆ&quot;",
+  "editImageModalImageDescriptionDescription": "ข้อความแสดงแทนสำหรับผู้ใช้ที่ไม่สามารถดูภาพได้ เช่น \"ท้องฟ้ามีเมฆ\"",
   "editImageModalImageDescriptionLabel": "คำอธิบายรูป (เพิ่มเติม)",
   "editImageModalImageDescriptionLegend": "คำอธิบายรูป",
   "editImageModalDimensionsLegend": "ขนาดรูป",

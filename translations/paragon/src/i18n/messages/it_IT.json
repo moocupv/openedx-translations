@@ -72,7 +72,7 @@
     "string": "Espandi tutto "
   },
   "pgn.DataTable.FilterStatus.clearFiltersText": {
-    "developer_comment": "Un testo che appare sul pulsante &quot;Cancella filtri&quot;.",
+    "developer_comment": "Un testo che appare sul pulsante \"Cancella filtri\".",
     "string": "Cancella filtri"
   },
   "pgn.DataTable.RowStatus.statusText": {

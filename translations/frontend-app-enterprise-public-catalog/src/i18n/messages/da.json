@@ -1,7 +1,7 @@
 {
   "catalogPage.askXpert.title": "Xpert",
   "catalogPage.askXpert.description": "Brug AI til at indsnævre din søgning.",
-  "catalogPage.askXpert.loadingMessage": "Xpert tænker! Vent med os, mens vi genererer et katalog for <b>&quot; {query} &quot;...</b>",
+  "catalogPage.askXpert.loadingMessage": "Xpert tænker! Vent med os, mens vi genererer et katalog for <b>\" {query} \"...</b>",
   "catalogPage.askXpert.cancel": "Afbestille",
   "catalogPage.askXpert.poweredBy": "Drevet af OpenAI",
   "catalogInfoModal.relatedSkillsHeading": "Relaterede færdigheder",

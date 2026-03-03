@@ -17,7 +17,7 @@
   "credentials.modal.instruction.title": "Thực hiện theo các hướng dẫn bên dưới để có được thông tin xác thực:",
   "credentials.modal.instruction.step1": "Tải xuống và cài đặt ứng dụng ví trên điện thoại thông minh của bạn.",
   "credentials.modal.instruction.step2": "Đăng ký ứng dụng để nhận dạng chính bạn.",
-  "credentials.modal.instruction.step3": "Mở ứng dụng ví và chọn tùy chọn &quot;Quét mã QR&quot;. Sau đó quét hình ảnh mã QR.",
+  "credentials.modal.instruction.step3": "Mở ứng dụng ví và chọn tùy chọn \"Quét mã QR\". Sau đó quét hình ảnh mã QR.",
   "credentials.modal.instruction.step4": "Khi bạn đã thực hiện thành công - hãy đóng cửa sổ phương thức.",
   "credentials.modal.deeplink": "Tải xuống thông tin xác thực",
   "credentials.modal.loading": "Đang tải...",

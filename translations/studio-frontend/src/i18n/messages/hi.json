@@ -146,7 +146,7 @@
   "editImageModalFormErrorMissingFields": "सभी फ़ील्ड भरना सुनिश्चित करें.",
   "editImageModalFormValidImageDescription": "एक छवि विवरण जोड़ें या निर्दिष्ट करें कि छवि केवल सजावटी है।",
   "editImageModalFormValidImageDimensions": "छवि का आयाम धनात्मक संख्या होना चाहिए.",
-  "editImageModalImageDescriptionDescription": "उन उपयोगकर्ताओं के लिए वैकल्पिक पाठ जो छवि नहीं देख सकते, जैसे &quot;बादलों वाला आकाश&quot;।",
+  "editImageModalImageDescriptionDescription": "उन उपयोगकर्ताओं के लिए वैकल्पिक पाठ जो छवि नहीं देख सकते, जैसे \"बादलों वाला आकाश\"।",
   "editImageModalImageDescriptionLabel": "छवि विवरण (वैकल्पिक पाठ)",
   "editImageModalImageDescriptionLegend": "चित्र का वर्णन",
   "editImageModalDimensionsLegend": "छवि आयाम",

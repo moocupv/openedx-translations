@@ -161,7 +161,7 @@
   "discussions.posts.actionBar.searchAllPosts": "חיפוש בכל הרשומות",
   "discussions.posts.actionBar.search": "{page, select, topics {Search topics} posts {Search all posts} learners {Search learners} myPosts {Search all posts} other { {page} } }",
   "discussions.actionBar.searchInfo": "מוצגות {count} תוצאות לחיפוש אחר „{text}”",
-  "discussions.actionBar.searchRewriteInfo": "לא נמצאו תוצאות עבור &quot; {searchString} &quot;. מציג תוצאות {count} עבור &quot; {textSearchRewrite} &quot;.",
+  "discussions.actionBar.searchRewriteInfo": "לא נמצאו תוצאות עבור \" {searchString} \". מציג תוצאות {count} עבור \" {textSearchRewrite} \".",
   "discussions.actionBar.searchInfoSearching": "מחפש...",
   "discussions.actionBar.clearSearch": "תוצאות ברורות",
   "discussion.posts.actionBar.add": "הוספת רשומה",
