@@ -8055,7 +8055,7 @@ msgstr "Administrar etiquetas"
 
 #: cms/templates/js/course-outline.underscore:220
 msgid "Copy to Clipboard"
-msgstr "Eliminar"
+msgstr "Copiar al portapapeles"
 
 #: cms/templates/js/course-outline.underscore:225
 #: cms/templates/js/course-outline.underscore:248
