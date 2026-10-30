@@ -19171,7 +19171,7 @@ msgstr "Administrar etiquetas"
 
 #: cms/templates/studio_xblock_wrapper.html:157
 msgid "Copy to Clipboard"
-msgstr "Eliminar"
+msgstr "Copiar al portapapeles"
 
 #: cms/templates/studio_xblock_wrapper.html:184
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:169
